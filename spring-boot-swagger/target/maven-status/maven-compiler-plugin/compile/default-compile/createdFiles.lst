@@ -1,0 +1,4 @@
+com\maoshulin\swagger\config\SwaggerConfig.class
+com\maoshulin\swagger\model\User.class
+com\maoshulin\swagger\controller\TestController.class
+com\maoshulin\swagger\run\SwaggerApplication.class
